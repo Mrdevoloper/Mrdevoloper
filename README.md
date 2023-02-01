@@ -20,11 +20,6 @@
       <strong>Programming, Tennis, Reading book.</strong>
 </details>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-       
-
- <a href="https://t.me/nasibullayevv"/a>
        
  ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)</a>
     </p>
