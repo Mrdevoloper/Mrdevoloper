@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Tohirjon</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h1 align="center">Hi 👋, I'm Xayrulloh</h1>
+<h3 align="center">A passionate Backend developer from Uzbekistan</h3>
 <img align="right" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tohirjon-Odilov&label=Profile%20views&color=0e75b6&style=flat" alt="Tohirjon-Odilov" /> </p>
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱**Node Js**
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Backend**
 
-- 📫 How to reach me **tohirjonodilov19@gmail.com**
+- 📫 How to reach me **nasibullayevx177@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 <details>
     <summary><b>✨About Me</b></summary><br/>
-    My name is <strong>Tohirjon.</strong> Full name is <strong>Odilov Tohirjon.</strong> I'm from <strong>Andijan. 19.y.o</strong>
+    My name is <strong>Tohirjon.</strong> Full name is <strong>Nasibullayev Xayrulloh.</strong> I'm from <strong>Andijan. 20.y.o</strong>
 </details>
 <details>
     <summary><b>🎭 My hobbies</b></summary><br/>
