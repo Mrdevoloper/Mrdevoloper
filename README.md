@@ -6,14 +6,11 @@
 
 - 🌱**Node Js**
 
-- 💬 Ask me about **Backend**
-
 - 📫 How to reach me **nasibullayevx177@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 <details>
     <summary><b>✨About Me</b></summary><br/>
-    My name is <strong>Tohirjon.</strong> Full name is <strong>Nasibullayev Xayrulloh.</strong> I'm from <strong>Andijan. 20.y.o</strong>
+    My name is <strong>Xayrulloh.</strong> Full name is <strong>Nasibullayev Xayrulloh.</strong> I'm from <strong>Andijan. 20.y.o</strong>
 </details>
 <details>
     <summary><b>🎭 My hobbies</b></summary><br/>
