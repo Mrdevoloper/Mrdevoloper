@@ -22,11 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://instagram.com/Tohirjon-Odilov" target="blank" >
        
- ![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)</a>
 
- <a href="https://t.me/t-odilov" target="_blank">
+ <a href="https://t.me/nasibullayevxllx" target="_blank">
        
  ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)</a>
     </p>
@@ -44,9 +42,9 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tohirjon-Odilov&show_icons=true&theme=tokyonight) -->
 ## **Github Stats:**
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Tohirjon-Odilov&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/Tohirjon-Odilov/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrdevoloper&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/Mrdevoloper/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tohirjon-Odilov&layout=compact&theme=highcontrast)](https://github.com/Tohirjon-Odilov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrdevoloper&layout=compact&theme=highcontrast)](https://github.com/Mrdevoloper/github-readme-stats)
 
   
 <!-- ![snake gif](https://github.com/Tohirjon-Odilov/Tohirjon-Odilov/blob/output/github-contribution-grid-snake.gif) -->
